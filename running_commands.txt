@@ -1,0 +1,3 @@
+#from directory holding this txt file, run either:
+java cantro/Cantro
+java -cp .;./cantroserver/lib/appframework-1.0.3.jar;./cantroserver/lib/swing-worker-1.1.jar cantroserver/CantroserverApp
